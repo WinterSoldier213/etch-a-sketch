@@ -20,5 +20,5 @@ boxes.forEach(box => {
 
 const button = document.querySelector("button")
 button.addEventListener("click", () => {
-    const yo = prompt("Number of squares per side???")
+    const yo = prompt("How drunk did you get???")
 })
